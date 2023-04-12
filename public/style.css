@@ -1,0 +1,25 @@
+.form1{
+    width: 70%;
+    margin-left: 15%;
+    margin-top: 50PX;
+}
+
+.form2{
+    width: 70%;
+    margin-left: 15%;
+}
+
+.container{
+    margin-top: 100px;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: rgb(230, 222, 222);
+}
+
+form{
+    padding-left: 35%;
+    padding-right: 35%;
+}
+.btn{
+    margin-left: 35%;
+}
