@@ -1,0 +1,5 @@
+const Calculator = require('./calc')
+Calculator.Addition(5, 2)
+Calculator.Subtraction(5, 2)
+Calculator.Multiplication(5, 2)
+Calculator.Division(18, 2)

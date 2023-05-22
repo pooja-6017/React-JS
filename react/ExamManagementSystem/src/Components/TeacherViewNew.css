@@ -1,0 +1,29 @@
+.TeacherView {
+  text-align: center;
+  /* border-style: solid; */
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+.teacherInput {
+  width: 50%;
+  margin: 2px;
+}
+.TeacherButton {
+  width: 150px;
+  border-radius: 7px;
+}
+.teacherTextArea {
+  width: 80%;
+}
+.TeacherButton:hover {
+  background-color: rgb(142, 102, 243);
+}
+
+.ReactSelect {
+  width: 25%!important;
+  margin-left: 37%;
+  color: black
+  /* margin-right: 25%; */
+}
